@@ -1,4 +1,4 @@
-## CHUPA COMPAN REPORT
+## CHUPA COMPANY REPORT
 This report presents a detailed analysis of the company’s workforce, focusing on gender distribution, departmental structure, and employee demographics
 # Key Insights
 
